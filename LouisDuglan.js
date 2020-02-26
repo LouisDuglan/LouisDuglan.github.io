@@ -1,9 +1,9 @@
 
 var pics = [
-	"LouisDuglan/imgs/cat_1.jpg",
-	"LouisDuglan/imgs/cat_2.jpg",
-	"LouisDuglan/imgs/cat_3.jpg",
-	"LouisDuglan/imgs/cat_4.jpg"
+	"imgs/cat_1.jpg",
+	"imgs/cat_2.jpg",
+	"imgs/cat_3.jpg",
+	"imgs/cat_4.jpg"
 ]
 
 var btn = document.querySelector("button");
